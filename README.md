@@ -1,2 +1,2 @@
-# AI-Projects
+# AI-Notes
 Developing AI application 
