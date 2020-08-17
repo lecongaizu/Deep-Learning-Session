@@ -9,6 +9,12 @@ The purpose of this project is to take note some topics in deep learning which I
 5. Convolutional Variational Autoencoder
 6. GAN (to do)
 
-# How to run?
-Download this code and using google colab
+# Getting Started 
+
+$ git clone https://github.com/lecongaizu/Deep-Learning-Session
+
+# Dependencies 
+- Python 3.6
+- Tensorflow 2.0
+
 
