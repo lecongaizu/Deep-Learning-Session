@@ -1,7 +1,7 @@
 # Deep Learning Session
 The purpose of this project is to take note some topics in deep learning which I have done. 
 
-# Content 
+# Table of Contents  
 1. Convolution Neural Network
 2. Image Segmentation 
 3. Image Classification
