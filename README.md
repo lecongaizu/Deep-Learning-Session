@@ -1,4 +1,5 @@
-# Deep Learning Session 
+# Deep Learning Session
+The purpose of this project is to take note some topics in deep learning which I have done. 
 
 # Content 
 1. Convolution Neural Network
