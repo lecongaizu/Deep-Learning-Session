@@ -7,7 +7,6 @@ The purpose of this project is to take note some topics in deep learning which I
 3. Image Classification
 4. Reusing_Models
 5. Convolutional Variational Autoencoder
-6. GAN (to do)
 
 # Getting Started 
 
